@@ -1,7 +1,7 @@
 const StudentPage = () => {
     return (
-        <div className="">Student Page</div>
-    ) 
+        <div className="">StudentPage</div>
+    )
 }
 
 export default StudentPage;
